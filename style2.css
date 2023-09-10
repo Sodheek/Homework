@@ -1,0 +1,23 @@
+*{
+    
+}
+
+header {
+    border: 1px solid green;
+}
+
+.gallery-img {
+    border:1px solid orangered;
+}
+
+.boxes {
+    border: 1px solid purple;
+}
+
+.gallery-pics {
+    border: 1px solid blue;
+}
+
+.footer {
+    border: 1px solid green;
+}
